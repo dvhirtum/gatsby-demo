@@ -1,0 +1,29 @@
+.layout {
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 2rem;
+  padding-top: 1.5rem;
+}
+
+.listlink {
+  list-style: none;
+  float: right;
+}
+
+.linklistlink {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.header {
+  margin-bottom: 1.5rem;
+}
+
+.homelink {
+  text-shadow: none;
+  background-image: none;
+}
+
+.homelink h3 {
+  display: inline;
+}

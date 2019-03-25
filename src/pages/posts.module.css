@@ -1,0 +1,21 @@
+.header {
+  display: inline-block;
+  border-bottom: 1px solid;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link h3 {
+  margin-bottom: 0.25rem;
+}
+
+.link h3 span {
+  color: #bbb;
+}
+
+.error {
+  color: red;
+}
